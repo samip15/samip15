@@ -6,5 +6,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning  Android
 - 👯 I’m looking to collaborate on Manking New Android Project
 - 📫 How to reach me:samipgnyawali15@gmail.com
-- ⚡ Fun fact: cooding
--->
+- ⚡ Fun fact: Love Cooding
